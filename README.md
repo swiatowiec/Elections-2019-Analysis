@@ -8,9 +8,9 @@ The analysis includes:
 - the number of voters depending on the type of constituency
 - voters from outside the country
 - the number of voters voting in precincts other than permanent ones
-![ELECTIONS1](ELECTIONS.png)
+![ELECTIONS1](charts/ELECTIONS.png)
 - the number of voters in a given district
-![ELECTIONS2](ELECTIONS2.png)
+![ELECTIONS2](charts/ELECTIONS2.png)
 - the adaptation of polling stations to people with disabilities
-![ELECTIONS4](ELECTIONS4.png)
+![ELECTIONS4](charts/ELECTIONS4.png)
 
